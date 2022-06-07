@@ -20,5 +20,6 @@ public class Lab4Controller {
     public String init() throws IOException, InterruptedException {
         lab4Service.initLab();
         return "ok";
+        //he,fybr
     }
 }
